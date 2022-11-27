@@ -1,5 +1,4 @@
 1. #!/bin/bash
-<<<<<<< HEAD
 
-2. echo "ALX School"
->>>>>>> update_script
+2.echo "ALX School"
+
